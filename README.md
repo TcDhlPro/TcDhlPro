@@ -2,7 +2,7 @@
 🕛🕧🕐🕜🕑🕝🕒🕞🕓🕟🕔🕠🕕🕡🕖🕢🕗🕣🕘🕤🕙 🕥🕚🕦⌛⏳
 
 ```
-class TcDhl():
+class TcDhlPro():
      def __init__(self):
          self.简单的自我介绍一下 = [
              '男性',
