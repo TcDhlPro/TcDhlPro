@@ -45,18 +45,20 @@ class TcDhlPro():
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/TcDhlPro">[2]</a>
+                <a href="https://github.com/TcDhlPro/tcdhlpro.github.io">[2]tcdhlpro.github.io</a>
             </td>
             <td>
-                待定!!!。
+               Github资源加速访问。
             </td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/TcDhlPro">[3]</a>
+                <a href="https://github.com/TcDhlPro/ZeroTierOne-SelfHostingNetworkControllers-ZtnCui/tree/v1.0.0">ZeroTierOne-SelfHostingNetworkControllers-ZtnCui</a>
             </td>
             <td>
-                待定!!!。
+                 依照ZeroTierOne官方提供的Api。
+                 使用key-networks/ztncui提供的模版,搭建自己的控制中心
+                 客户端数量解锁无限制
             </td>
         </tr>
         <tr>
