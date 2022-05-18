@@ -25,12 +25,13 @@ class TcDhlPro():
 </p>
 
 *NOTE: 下方的玩意是 [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)上的功能*
-
+</br></br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TcDhlPro&hide=prs&count_private=true&show_icons=true&theme=material-palenight" alt="TcDhlPro github stats" width="480" height="170" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TcDhlPro&langs_count=8&theme=material-palenight" alt="Top Langs" style="max-width: 100%;" />
 </a>
+</br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TcDhlPro&layout=compact&theme=material-palenight" alt="Top Langs" height="110" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TcDhlPro&hide=prs&count_private=true&show_icons=true&theme=radical" alt="TcDhlPro github stats" style="max-width: 100%;" />
 </a>
 <br><br>
 <html lang="ch">
