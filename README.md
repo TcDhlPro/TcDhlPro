@@ -1,6 +1,4 @@
-### 月亮不睡我不睡
-🕛🕧🕐🕜🕑🕝🕒🕞🕓🕟🕔🕠🕕🕡🕖🕢🕗🕣🕘🕤🕙 🕥🕚🕦⌛⏳
-
+### 【大灰狼】Python境界: 练气期 | Flask心法: 初级
 ```
 class TcDhlPro():
      def __init__(self):
@@ -18,14 +16,6 @@ class TcDhlPro():
 ```
 
 ***
-
-<p align="left"> 
-  访问次数统计<br>
-  <img src="https://profile-counter.glitch.me/TcDhlPro/count.svg" />
-</p>
-
-*NOTE: 下方的玩意是 [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)上的功能*
-</br></br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TcDhlPro&langs_count=8&theme=material-palenight" alt="Top Langs" style="max-width: 100%;" />
 </a>
