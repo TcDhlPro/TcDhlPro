@@ -1,4 +1,4 @@
-### 【大灰狼】Python境界: 练气期 | Flask心法: 初级
+### 【就怕自己不敢学】
 ```
 class TcDhlPro():
      def __init__(self):
