@@ -1,4 +1,4 @@
-### 【就怕自己不敢学】
+###
 ```
 class TcDhlPro():
      def __init__(self):
