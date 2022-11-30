@@ -42,11 +42,11 @@ class TcDhlPro():
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/TcDhlPro/ZeroTierOne-SelfHostingNetworkControllers-ZtnCui/tree/v1.0.0">[3]SelfHostingNetworkControllers</a>
+                <a href="https://github.com/TcDhlPro/ZeroTierOne-SelfHostingNetworkControllers-ZtnCui/tree/main">[3]SelfHostingNetworkControllers</a>
             </td>
             <td>
                  依照ZeroTierOne官方提供的Api<br>
-                 使用key-networks/ztncui提供的模版,搭建自己的控制中心<br>
+                 使用key-networks/ztncui提供的控制器,搭建私有根服务端<br>
                  客户端数量解锁无限制
             </td>
         </tr>
