@@ -52,10 +52,10 @@ class TcDhlPro():
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/TcDhlPro">[4]</a>
+                <a href="https://github.com/TcDhlPro/PySide6_ChatGPTools">[4]PySide6_ChatGPTools</a>
             </td>
             <td>
-               待定!!!。
+               基于OpenAI的API, 实现上下文关联的ChatGPT对话工具
             </td>
        </tr>
           <tr>
