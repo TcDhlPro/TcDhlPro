@@ -35,9 +35,12 @@ width="800"  height="3">
           
 
 # 🚀 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=TcDhlPro&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=TcDhlPro&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TcDhlPro&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![主要使用语言](https://github-readme-stats.08w80.com/api/top-langs/?username=TcDhlPro&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)](https://github-readme-stats.08w80.com/api/top-langs/?username=TcDhlPro&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)<br/>
+[![大灰狼's github stats](https://github-readme-stats.08w80.com/api?username=TcDhlPro&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)](https://github-readme-stats.08w80.com/api?username=TcDhlPro&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)
+<br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TcDhlPro&theme=onedark&hide_border=true&locale=zh_Hans&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+<br/>
+[![profile](https://github-profile-trophy.vercel.app/?username=TcDhlPro&theme=matrix&column=8&no-frame=false&no-bg=true)](https://github-profile-trophy.vercel.app/?username=TcDhlPro&theme=matrix&column=8&no-frame=false&no-bg=true)
 
 # 💻 仓库
 |                        Project                         |                            Stars                              |                            Forks                             |              Remark              |
@@ -46,9 +49,6 @@ width="800"  height="3">
 | [[2]tcdhlpro.github.io](https://github.com/TcDhlPro/tcdhlpro.github.io) | ![](https://img.shields.io/github/stars/TcDhlPro/tcdhlpro.github.io?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/TcDhlPro/tcdhlpro.github.io?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | Github资源加速访问。 |
 | [[3]SelfHostingNetworkControllers](https://github.com/TcDhlPro/ZeroTierOne-SelfHostingNetworkControllers-ZtnCui/tree/main) | ![](https://img.shields.io/github/stars/TcDhlPro/ZeroTierOne-SelfHostingNetworkControllers-ZtnCui?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/TcDhlPro/ZeroTierOne-SelfHostingNetworkControllers-ZtnCui?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 依照ZeroTierOne官方提供的Api<br>使用key-networks/ztncui提供的控制器,搭建私有根服务端<br>客户端数量解锁无限制 |
 | [[4]PySide6_ChatGPTools](https://github.com/TcDhlPro/PySide6_ChatGPTools) | ![](https://img.shields.io/github/stars/TcDhlPro/PySide6_ChatGPTools?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/TcDhlPro/PySide6_ChatGPTools?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 基于OpenAI的API, 实现上下文关联的ChatGPT对话工具 |
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=TcDhlPro&theme=matrix&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=TcDhlPro&icon=0&color=1)](https://visitcount.itsvg.in)
