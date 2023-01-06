@@ -32,15 +32,23 @@ width="800"  height="3">
 <a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="" width="40" height="40"/> </a>
 <a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="" width="40" height="40"/> </a>
 <a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="" width="40" height="40"/> </a>
-          
 
 # 🚀 GitHub Stats:
-[![主要使用语言](https://github-readme-stats.08w80.com/api/top-langs/?username=TcDhlPro&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)](https://github-readme-stats.08w80.com/api/top-langs/?username=TcDhlPro&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)<br/>
+<details open>
+<summary>点击展开 ...</summary>
+
+[![主要使用语言](https://github-readme-stats.08w80.com/api/top-langs/?username=TcDhlPro&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)](https://github-readme-stats.08w80.com/api/top-langs/?username=TcDhlPro&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)
+
 [![大灰狼's github stats](https://github-readme-stats.08w80.com/api?username=TcDhlPro&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)](https://github-readme-stats.08w80.com/api?username=TcDhlPro&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)
-<br/>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TcDhlPro&theme=onedark&hide_border=true&locale=zh_Hans&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
-<br/>
+
 [![profile](https://github-profile-trophy.vercel.app/?username=TcDhlPro&theme=matrix&column=8&no-frame=false&no-bg=true)](https://github-profile-trophy.vercel.app/?username=TcDhlPro&theme=matrix&column=8&no-frame=false&no-bg=true)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=TcDhlPro&bg_color=000000&color=00ff11&line=dcad04&point=db1414&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![](https://activity-graph.herokuapp.com/graph?username=TcDhlPro&theme=github)](https://activity-graph.herokuapp.com/graph?username=TcDhlPro&theme=github)
+</details>
 
 # 💻 仓库
 |                        Project                         |                            Stars                              |                            Forks                             |              Remark              |
