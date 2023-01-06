@@ -47,7 +47,7 @@ width="800"  height="3">
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=TcDhlPro&bg_color=000000&color=00ff11&line=dcad04&point=db1414&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![github-active](./profile-3d-contrib/profile-night-rainbow.svg)](https://raw.githubusercontent.com/eryajf/eryajf/master/profile-3d-contrib/profile-night-rainbow.svg)
+[![github-active](./profile-3d-contrib/profile-night-rainbow.svg)](https://agent-github.08w80.com/gh/TcDhlPro/TcDhlPro@main/profile-3d-contrib/profile-night-rainbow.svg)
 
 # 💻 仓库
 |                        Project                         |                            Stars                              |                            Forks                             |              Remark              |
