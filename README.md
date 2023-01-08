@@ -58,7 +58,7 @@ width="800"  height="3">
 | [[4]PySide6_ChatGPTools](https://github.com/TcDhlPro/PySide6_ChatGPTools) | ![](https://img.shields.io/github/stars/TcDhlPro/PySide6_ChatGPTools?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/TcDhlPro/PySide6_ChatGPTools?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 基于OpenAI的API, 实现上下文关联的ChatGPT对话工具 |
 
 ---
-[![](https://visitcount.itsvg.in/api?id=TcDhlPro&icon=0&color=1)](https://visitcount.itsvg.in)
+[![visitor](https://visitor-badge.laobi.icu/badge?page_id=TcDhlPro.TcDhlPro)](https://visitor-badge.laobi.icu/badge?page_id=TcDhlPro.TcDhlPro)
 
 ## 💰 You can help me by Donating
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/TcDhlPro) 
