@@ -43,11 +43,11 @@ width="800"  height="3">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TcDhlPro&theme=onedark&hide_border=true&locale=zh_Hans&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
-[![profile](https://github-profile-trophy.vercel.app/?username=TcDhlPro&theme=matrix&column=8&no-frame=false&no-bg=true)](https://github-profile-trophy.vercel.app/?username=TcDhlPro&theme=matrix&column=8&no-frame=false&no-bg=true)
+[![profile](https://github-profile-trophy.08w80.com/?username=TcDhlPro&theme=matrix&column=8&no-frame=false&no-bg=true)](https://github-profile-trophy.08w80.com/?username=TcDhlPro&theme=matrix&column=8&no-frame=false&no-bg=true)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=TcDhlPro&bg_color=000000&color=00ff11&line=dcad04&point=db1414&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![github-active](./profile-3d-contrib/profile-night-rainbow.svg)](https://raw-githubusercontent-github.08w80.com/TcDhlPro/TcDhlPro/master/profile-3d-contrib/profile-night-rainbow.svg)
+[![github-active](./profile-3d-contrib/profile-night-rainbow.svg)](https://agent-github.08w80.com/gh/TcDhlPro/TcDhlPro/profile-3d-contrib/profile-night-rainbow.svg)
 
 # 💻 仓库
 |                        Project                         |                            Stars                              |                            Forks                             |              Remark              |
