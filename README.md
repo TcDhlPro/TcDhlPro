@@ -37,7 +37,9 @@ width="800"  height="3">
 <details open>
 <summary>点击展开 ...</summary>
 
+<!--
 [![常用语言-github-readme-stats](https://github-readme-stats.08w80.com/api/top-langs/?username=TcDhlPro&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)](https://github-readme-stats.08w80.com)
+-->
 
 [![贡献数据-github-readme-streak-stats](https://github-readme-streak-stats.herokuapp.com?user=TcDhlPro&theme=onedark&hide_border=true&locale=zh_Hans&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
