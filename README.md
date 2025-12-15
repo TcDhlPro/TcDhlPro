@@ -41,7 +41,7 @@ width="800"  height="3">
 [![常用语言-github-readme-stats](https://github-readme-stats.08w80.com/api/top-langs/?username=TcDhlPro&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)](https://github-readme-stats.08w80.com)
 -->
 
-[![贡献数据-github-readme-streak-stats](https://github-readme-streak-stats.herokuapp.com?user=TcDhlPro&theme=onedark&hide_border=true&locale=zh_Hans&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+[![贡献数据-github-readme-streak-stats](https://streak-stats.demolab.com?user=TcDhlPro&theme=dark)](https://git.io/streak-stats)
 
 [![统计数据-github-readme-stats](https://github-readme-stats.08w80.com/api?username=TcDhlPro&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)](https://github-readme-stats.08w80.com)
 
